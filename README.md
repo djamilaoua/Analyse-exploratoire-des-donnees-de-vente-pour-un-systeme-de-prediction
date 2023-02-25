@@ -2,7 +2,7 @@
 Ce projet consiste à faire une analyse exploratoire d’un ensemble de données de ventes des produits électroniques de l'année 2019, ainsi qu'une prédiction en utilisant le modèle KNN de Machine Learning.
 ## À propos du projet
 Dans ce Jupyter Notebook d’Analyse des données pour un système de prédiction, nous effectuons une analyse exploratoire des données de vente de plus de 200 000 données en suivant les tâches mentionnées ci-dessous. Nous essayons de répondre à l’ensemble suivant de questions commerciales réelles pour tirer des informations de ce grand ensemble de données commerciales.
-## Dataset
+## Sales Data
 L’ensemble de données contient des fichiers CSV contenant des détails sur les ventes pour les 12 mois de l’année 2019. L'affectation de noms est la suivante : **Sales_[MONTH_NAME]_2019**
 Chaque fichier contient des lignes et des colonnes, les colonnes sont les suivantes :
 - OrderID: l'identifiant unique de la commande
