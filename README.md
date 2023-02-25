@@ -16,7 +16,7 @@ Chaque fichier contient des lignes et des colonnes, les colonnes sont les suivan
 2. Préparation des données
 3. Prétraitement des données
 4. Analyse exploratoire et visualisation des données
-5. Machine Learning pour la prédiction
+5. Application d'un modèle Machine Learning pour la prédiction
 ## Questions
 Nous allons analyser ces données pour répondre aux questions suivantes:  
 1/ Quel est le meilleur mois de vente ? et Quel est le chiffre d'affaires de ce mois ?  
