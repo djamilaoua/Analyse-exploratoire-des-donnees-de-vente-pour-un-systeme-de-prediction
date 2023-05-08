@@ -1,4 +1,4 @@
-# Analyse-exploratoire-des-donnees-de-vente-pour-un-systeme-de-prediction
+# Analyse-exploratoire-des-données-de-vente-pour-un-système-de-prédiction
 Ce projet consiste à faire une analyse exploratoire d’un ensemble de données de ventes des produits électroniques de l'année 2019, ainsi qu'une prédiction en utilisant le modèle KNN de Machine Learning.
 ## À propos du projet
 Dans ce Jupyter Notebook d’Analyse des données pour un système de prédiction, nous effectuons une analyse exploratoire des données de vente de plus de 200 000 données en suivant les tâches mentionnées ci-dessous. Nous essayons de répondre à l’ensemble suivant de questions commerciales réelles pour tirer des informations de ce grand ensemble de données commerciales.
